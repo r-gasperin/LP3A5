@@ -1,2 +1,6 @@
 # LP3A5
-Repositório para a matéria Linguagem de Programação III
+Disciplina de Linguagem de Programação III
+
+Nome: Rodrigo Gasperin
+
+Prontuário: SP3014142
